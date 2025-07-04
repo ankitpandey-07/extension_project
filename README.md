@@ -1,6 +1,6 @@
 # 🧠 AI Summary and Translation for Articles (Chrome Extension)
 
-This Chrome extension allows you to **summarize** and **translate** online articles using **Google Gemini (1.5 Flash)**. It extracts article content from any webpage and provides concise summaries or translations in your preferred language — all with the click of a button.
+This Chrome extension allows you to **summarize** and **translate** online articles using **Google Gemini (2.0 Flash)**. It extracts article content from any webpage and provides concise summaries or translations in your preferred language — all with the click of a button.
 
 ---
 
@@ -16,7 +16,6 @@ This Chrome extension allows you to **summarize** and **translate** online artic
   - French (`fr`)
   - Spanish (`es`)
   - Hindi (`hi`)
-  - German (`de`)
 - 📋 **Copy to Clipboard** support
 - ⚡ Powered by **Google Gemini API** (`gemini-1.5-flash`)
 
